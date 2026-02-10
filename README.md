@@ -49,6 +49,9 @@ ___
 
 ___
 
-### 📚 `Formação`
-🎓 ADS - SENAI  
-📍 Santa Bárbara d’Oeste - SP
+### 📚 Formação
+
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvfz5iTQBxso_LmUbAQjhsPQydGZyV9T-HLQ&s" width="22"/>
+  <b>ADS — SENAI</b>
+</p>
